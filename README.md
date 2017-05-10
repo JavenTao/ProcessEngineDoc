@@ -1,3 +1,12 @@
-# My Awesome Book
+# 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## 流程引擎用户指导手册
+
+## 流程引擎
+
+![](/assets/流程引擎组件化思路.png)
+
+### 关于流程引擎
+
+组件化开发对于大团队开发复杂应用是一个技术趋势，各大公司都在探讨如何把业务功能拆解成一个又一个功能相对简单、自包含的独立组件，然后再通过这些小组件组装出一个目标应用。流程引擎是2017年云办公团队设计开发的一个办公流程设计引擎。旨在快速设计标准化流程，提高办公效率。
+
